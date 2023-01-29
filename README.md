@@ -26,6 +26,9 @@ I've been working on the front end web dev for 3+ years. Got an opportunity for 
     <a aria-label="T Express website link" href="https://www.texpress.net" target="_blank" style="margin-right: 0.75rem">
         <img src="./assets/buttons/projects/texpress-button.webp" alt="gray t express link button" />
     </a>
+    <a aria-label="Scriptulate website demo link" href="https://scriptulate.com/demo" target="_blank" style="margin-right: 0.75rem">
+        <img src="./assets/buttons/projects/scriptulate-button.webp" alt="gray scriptulate link button" />
+    </a>
     <a aria-label="GroupJoy website link" href="https://share-gcard-six.vercel.app" target="_blank" style="margin-right: 0.75rem">
         <img src="./assets/buttons/projects/groupjoy-button.webp" alt="gray GroupJoy link button" />
     </a>
