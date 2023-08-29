@@ -53,7 +53,7 @@ I've been working on the front end web dev for 3+ years. Got an opportunity for 
 
 <br>
 
-### Recent Activity
+## Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
