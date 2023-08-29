@@ -56,4 +56,9 @@ I've been working on the front end web dev for 3+ years. Got an opportunity for 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#37](https://github.com/serhankileci/system-panda/pull/37) in [serhankileci/system-panda](https://github.com/serhankileci/system-panda)
+2. 💪 Opened PR [#32](https://github.com/serhankileci/system-panda/pull/32) in [serhankileci/system-panda](https://github.com/serhankileci/system-panda)
+3. 🗣 Commented on [#504](https://github.com/aidenybai/million/issues/504) in [aidenybai/million](https://github.com/aidenybai/million)
+4. 💪 Opened PR [#31](https://github.com/serhankileci/system-panda/pull/31) in [serhankileci/system-panda](https://github.com/serhankileci/system-panda)
+5. 🗣 Commented on [#504](https://github.com/aidenybai/million/issues/504) in [aidenybai/million](https://github.com/aidenybai/million)
 <!--END_SECTION:activity-->
