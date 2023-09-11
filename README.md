@@ -56,9 +56,9 @@ I've been working on the front end web dev for 3+ years. Got an opportunity for 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/do-kevin/system-panda/pull/1) in [do-kevin/system-panda](https://github.com/do-kevin/system-panda)
-2. 💪 Opened PR [#37](https://github.com/serhankileci/system-panda/pull/37) in [serhankileci/system-panda](https://github.com/serhankileci/system-panda)
-3. 💪 Opened PR [#32](https://github.com/serhankileci/system-panda/pull/32) in [serhankileci/system-panda](https://github.com/serhankileci/system-panda)
-4. 🗣 Commented on [#504](https://github.com/aidenybai/million/issues/504) in [aidenybai/million](https://github.com/aidenybai/million)
-5. 💪 Opened PR [#31](https://github.com/serhankileci/system-panda/pull/31) in [serhankileci/system-panda](https://github.com/serhankileci/system-panda)
+1. 💪 Opened PR [#189](https://github.com/strapi/strapi-examples/pull/189) in [strapi/strapi-examples](https://github.com/strapi/strapi-examples)
+2. 💪 Opened PR [#1](https://github.com/do-kevin/system-panda/pull/1) in [do-kevin/system-panda](https://github.com/do-kevin/system-panda)
+3. 💪 Opened PR [#37](https://github.com/serhankileci/system-panda/pull/37) in [serhankileci/system-panda](https://github.com/serhankileci/system-panda)
+4. 💪 Opened PR [#32](https://github.com/serhankileci/system-panda/pull/32) in [serhankileci/system-panda](https://github.com/serhankileci/system-panda)
+5. 🗣 Commented on [#504](https://github.com/aidenybai/million/issues/504) in [aidenybai/million](https://github.com/aidenybai/million)
 <!--END_SECTION:activity-->
