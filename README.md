@@ -56,9 +56,9 @@ I've been working on the front end web dev for 3+ years. Got an opportunity for 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47](https://github.com/serhankileci/system-panda/pull/47) in [serhankileci/system-panda](https://github.com/serhankileci/system-panda)
-2. 💪 Opened PR [#47](https://github.com/serhankileci/system-panda/pull/47) in [serhankileci/system-panda](https://github.com/serhankileci/system-panda)
-3. 💪 Opened PR [#46](https://github.com/serhankileci/system-panda/pull/46) in [serhankileci/system-panda](https://github.com/serhankileci/system-panda)
-4. 🎉 Merged PR [#45](https://github.com/serhankileci/system-panda/pull/45) in [serhankileci/system-panda](https://github.com/serhankileci/system-panda)
-5. 💪 Opened PR [#45](https://github.com/serhankileci/system-panda/pull/45) in [serhankileci/system-panda](https://github.com/serhankileci/system-panda)
+1. 🎉 Merged PR [#100](https://github.com/do-kevin/Zephyr-Node/pull/100) in [do-kevin/Zephyr-Node](https://github.com/do-kevin/Zephyr-Node)
+2. 🎉 Merged PR [#47](https://github.com/serhankileci/system-panda/pull/47) in [serhankileci/system-panda](https://github.com/serhankileci/system-panda)
+3. 💪 Opened PR [#47](https://github.com/serhankileci/system-panda/pull/47) in [serhankileci/system-panda](https://github.com/serhankileci/system-panda)
+4. 💪 Opened PR [#46](https://github.com/serhankileci/system-panda/pull/46) in [serhankileci/system-panda](https://github.com/serhankileci/system-panda)
+5. 🎉 Merged PR [#45](https://github.com/serhankileci/system-panda/pull/45) in [serhankileci/system-panda](https://github.com/serhankileci/system-panda)
 <!--END_SECTION:activity-->
