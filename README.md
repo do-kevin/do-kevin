@@ -56,9 +56,9 @@ I've been working on the front end web dev for 3+ years. Got an opportunity for 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/do-kevin/random-quotes-generator/pull/1) in [do-kevin/random-quotes-generator](https://github.com/do-kevin/random-quotes-generator)
-2. 💪 Opened PR [#1](https://github.com/do-kevin/random-quotes-generator/pull/1) in [do-kevin/random-quotes-generator](https://github.com/do-kevin/random-quotes-generator)
-3. 💪 Opened PR [#1](https://github.com/do-kevin/nuxt-strapi/pull/1) in [do-kevin/nuxt-strapi](https://github.com/do-kevin/nuxt-strapi)
-4. 💪 Opened PR [#18164](https://github.com/strapi/strapi/pull/18164) in [strapi/strapi](https://github.com/strapi/strapi)
-5. 🎉 Merged PR [#100](https://github.com/do-kevin/Zephyr-Node/pull/100) in [do-kevin/Zephyr-Node](https://github.com/do-kevin/Zephyr-Node)
+1. 💪 Opened PR [#2](https://github.com/do-kevin/random-quotes-generator/pull/2) in [do-kevin/random-quotes-generator](https://github.com/do-kevin/random-quotes-generator)
+2. 🎉 Merged PR [#1](https://github.com/do-kevin/random-quotes-generator/pull/1) in [do-kevin/random-quotes-generator](https://github.com/do-kevin/random-quotes-generator)
+3. 💪 Opened PR [#1](https://github.com/do-kevin/random-quotes-generator/pull/1) in [do-kevin/random-quotes-generator](https://github.com/do-kevin/random-quotes-generator)
+4. 💪 Opened PR [#1](https://github.com/do-kevin/nuxt-strapi/pull/1) in [do-kevin/nuxt-strapi](https://github.com/do-kevin/nuxt-strapi)
+5. 💪 Opened PR [#18164](https://github.com/strapi/strapi/pull/18164) in [strapi/strapi](https://github.com/strapi/strapi)
 <!--END_SECTION:activity-->
