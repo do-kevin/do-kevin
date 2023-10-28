@@ -57,8 +57,8 @@ I've been working on the front end web dev for 3+ years. Got an opportunity for 
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1142](https://github.com/responsively-org/responsively-app/issues/1142) in [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app)
-2. ❗ Opened issue [#1142](https://github.com/responsively-org/responsively-app/issues/1142) in [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app)
-3. 🎉 Merged PR [#2](https://github.com/do-kevin/random-quotes-generator/pull/2) in [do-kevin/random-quotes-generator](https://github.com/do-kevin/random-quotes-generator)
-4. 💪 Opened PR [#2](https://github.com/do-kevin/random-quotes-generator/pull/2) in [do-kevin/random-quotes-generator](https://github.com/do-kevin/random-quotes-generator)
-5. 🎉 Merged PR [#1](https://github.com/do-kevin/random-quotes-generator/pull/1) in [do-kevin/random-quotes-generator](https://github.com/do-kevin/random-quotes-generator)
+2. 🗣 Commented on [#1142](https://github.com/responsively-org/responsively-app/issues/1142) in [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app)
+3. ❗ Opened issue [#1142](https://github.com/responsively-org/responsively-app/issues/1142) in [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app)
+4. 🎉 Merged PR [#2](https://github.com/do-kevin/random-quotes-generator/pull/2) in [do-kevin/random-quotes-generator](https://github.com/do-kevin/random-quotes-generator)
+5. 💪 Opened PR [#2](https://github.com/do-kevin/random-quotes-generator/pull/2) in [do-kevin/random-quotes-generator](https://github.com/do-kevin/random-quotes-generator)
 <!--END_SECTION:activity-->
