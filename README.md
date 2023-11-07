@@ -56,9 +56,9 @@ I've been working on the front end web dev for 3+ years. Got an opportunity for 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1142](https://github.com/responsively-org/responsively-app/issues/1142) in [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app)
+1. 💪 Opened PR [#104](https://github.com/do-kevin/Zephyr-Node/pull/104) in [do-kevin/Zephyr-Node](https://github.com/do-kevin/Zephyr-Node)
 2. 🗣 Commented on [#1142](https://github.com/responsively-org/responsively-app/issues/1142) in [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app)
 3. 🗣 Commented on [#1142](https://github.com/responsively-org/responsively-app/issues/1142) in [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app)
-4. ❗ Opened issue [#1142](https://github.com/responsively-org/responsively-app/issues/1142) in [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app)
-5. 🎉 Merged PR [#2](https://github.com/do-kevin/random-quotes-generator/pull/2) in [do-kevin/random-quotes-generator](https://github.com/do-kevin/random-quotes-generator)
+4. 🗣 Commented on [#1142](https://github.com/responsively-org/responsively-app/issues/1142) in [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app)
+5. ❗ Opened issue [#1142](https://github.com/responsively-org/responsively-app/issues/1142) in [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app)
 <!--END_SECTION:activity-->
