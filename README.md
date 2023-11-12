@@ -56,9 +56,9 @@ I've been working on the front end web dev for 3+ years. Got an opportunity for 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1158](https://github.com/responsively-org/responsively-app/issues/1158) in [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app)
-2. 🗣 Commented on [#1142](https://github.com/responsively-org/responsively-app/issues/1142) in [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app)
-3. 🔒 Closed issue [#1142](https://github.com/responsively-org/responsively-app/issues/1142) in [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app)
-4. 💪 Opened PR [#104](https://github.com/do-kevin/Zephyr-Node/pull/104) in [do-kevin/Zephyr-Node](https://github.com/do-kevin/Zephyr-Node)
-5. 🗣 Commented on [#1142](https://github.com/responsively-org/responsively-app/issues/1142) in [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app)
+1. 🗣 Commented on [#1](https://github.com/yassilah/vite-plugin-nuxt-test/issues/1) in [yassilah/vite-plugin-nuxt-test](https://github.com/yassilah/vite-plugin-nuxt-test)
+2. ❗ Opened issue [#1158](https://github.com/responsively-org/responsively-app/issues/1158) in [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app)
+3. 🗣 Commented on [#1142](https://github.com/responsively-org/responsively-app/issues/1142) in [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app)
+4. 🔒 Closed issue [#1142](https://github.com/responsively-org/responsively-app/issues/1142) in [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app)
+5. 💪 Opened PR [#104](https://github.com/do-kevin/Zephyr-Node/pull/104) in [do-kevin/Zephyr-Node](https://github.com/do-kevin/Zephyr-Node)
 <!--END_SECTION:activity-->
