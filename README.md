@@ -56,9 +56,9 @@ I've been working on the front end web dev for 3+ years. Got an opportunity for 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/yassilah/vite-plugin-nuxt-test/issues/1) in [yassilah/vite-plugin-nuxt-test](https://github.com/yassilah/vite-plugin-nuxt-test)
-2. ❗ Opened issue [#1158](https://github.com/responsively-org/responsively-app/issues/1158) in [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app)
-3. 🗣 Commented on [#1142](https://github.com/responsively-org/responsively-app/issues/1142) in [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app)
-4. 🔒 Closed issue [#1142](https://github.com/responsively-org/responsively-app/issues/1142) in [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app)
-5. 💪 Opened PR [#104](https://github.com/do-kevin/Zephyr-Node/pull/104) in [do-kevin/Zephyr-Node](https://github.com/do-kevin/Zephyr-Node)
+1. ❌ Closed PR [#103](https://github.com/do-kevin/Zephyr-Node/pull/103) in [do-kevin/Zephyr-Node](https://github.com/do-kevin/Zephyr-Node)
+2. ❌ Closed PR [#102](https://github.com/do-kevin/Zephyr-Node/pull/102) in [do-kevin/Zephyr-Node](https://github.com/do-kevin/Zephyr-Node)
+3. ❌ Closed PR [#101](https://github.com/do-kevin/Zephyr-Node/pull/101) in [do-kevin/Zephyr-Node](https://github.com/do-kevin/Zephyr-Node)
+4. ❌ Closed PR [#96](https://github.com/do-kevin/Zephyr-Node/pull/96) in [do-kevin/Zephyr-Node](https://github.com/do-kevin/Zephyr-Node)
+5. 🎉 Merged PR [#104](https://github.com/do-kevin/Zephyr-Node/pull/104) in [do-kevin/Zephyr-Node](https://github.com/do-kevin/Zephyr-Node)
 <!--END_SECTION:activity-->
