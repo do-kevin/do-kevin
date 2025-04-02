@@ -17,6 +17,9 @@ I've been working on the front end web dev for 3+ years. Got an opportunity for 
     <a aria-label="LinkedIn website link" href="https://www.linkedin.com/in/do-kevin/" target="_blank">
         <img src="./assets/buttons/linkedin-button.webp" alt="blue linkedin link button" />
     </a>
+    <a aria-label="Codeberg website link" href="https://codeberg.org/do-kevin?tab=activity" target="_blank">
+        Codeberg
+    </a>
 </div>
 
 ## **Notable projects**
