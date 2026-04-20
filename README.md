@@ -53,15 +53,3 @@ I've been working on the front end web dev for 3+ years. Got an opportunity for 
         <img src="./assets/buttons/projects/pcvn-button.webp" alt="gray pc-vn link button" />
     </a>
 </div>
-
-<br>
-
-## Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#105](https://github.com/do-kevin/Zephyr-Node/pull/105) in [do-kevin/Zephyr-Node](https://github.com/do-kevin/Zephyr-Node)
-2. 💪 Opened PR [#105](https://github.com/do-kevin/Zephyr-Node/pull/105) in [do-kevin/Zephyr-Node](https://github.com/do-kevin/Zephyr-Node)
-3. ❌ Closed PR [#103](https://github.com/do-kevin/Zephyr-Node/pull/103) in [do-kevin/Zephyr-Node](https://github.com/do-kevin/Zephyr-Node)
-4. ❌ Closed PR [#102](https://github.com/do-kevin/Zephyr-Node/pull/102) in [do-kevin/Zephyr-Node](https://github.com/do-kevin/Zephyr-Node)
-5. ❌ Closed PR [#101](https://github.com/do-kevin/Zephyr-Node/pull/101) in [do-kevin/Zephyr-Node](https://github.com/do-kevin/Zephyr-Node)
-<!--END_SECTION:activity-->
